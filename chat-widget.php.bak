@@ -11,7 +11,7 @@
             <button class="close-btn" id="closeChat">&times;</button>
         </div>
 
-        <!-- Main content from chatai-template/index.html -->
+        <!-- Copy the main content from your chatai-template/index.html -->
         <div class="chat-content">
             <!-- Chat List / Container -->
             <div class="chat-list"></div>

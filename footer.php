@@ -222,6 +222,6 @@ foreach ($result as $row) {
 </script>
 <?php echo $before_body; ?>
 <?php include 'chat-widget.php'; ?>
-<script src="chat-script.js"></script>
+    <script src="chat-widget-combined.js" type="module"></script>
 </body>
 </html>
