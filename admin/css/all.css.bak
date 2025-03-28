@@ -7,10 +7,4 @@
 @import url("all/polaris/polaris.css");
 @import url("all/futurico/futurico.css");
 
-button.tawk-custom-color.tawk-custom-border-color.tawk-outline.tawk-button {
-    display: none !important;
-}
-
-button[aria-label*="chat"][title*="chat_widget"] {
-    display: none !important;
-}
+button.tawk-custom-color.tawk-custom-border-color.tawk-outline.tawk-button {    display: none !important;   }
